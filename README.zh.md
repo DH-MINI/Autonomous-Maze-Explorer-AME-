@@ -50,3 +50,8 @@ pip install Pillow==10.1.0
 ## 许可证
 
 本项目采用 Apache-2.0 license。
+
+
+[English](README.md) | [中文](README.zh.md)
+
+
