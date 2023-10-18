@@ -1,4 +1,4 @@
-# Autonomous-Maze-Explorer-AME-
+![1](https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/e9227216-a8c8-43f5-bdfd-745b121f8061)# Autonomous-Maze-Explorer-AME-
 
 AME is an Arduino-based robot that navigates a 9x9 maze, identifies treasures using a YOLOv8-trained model, and communicates findings to a Tomcat-based website for real-time updates.
 
@@ -61,6 +61,8 @@ pip install Pillow==10.1.0
 ### Step 1: Assemble the car and set up ESP32-CAM
 
 Follow the code in the Tele folder to assemble and wire the car, then set up the basic settings for ESP32-CAM. Then connect the JDY31 Bluetooth module and modify the corresponding port in the for_computer code and other configuration file content. Also, establish a local server and website according to the code in the E-commerce folder.
+
+![1](https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/f48e4d23-c6ea-4d82-a47e-fa535ada8c14)
 
 ### Step 2: Connect the car and run Python script
 
