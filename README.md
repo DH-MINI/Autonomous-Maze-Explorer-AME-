@@ -54,6 +54,7 @@ pip install Pillow==10.1.0
 - MySQL
 - Eclipse
 
+## FlowChart
 <img width="818" alt="flow_chart" src="https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/ae3cbed5-1b05-4a41-879e-b9aeb6ca1ac4">
 
 ## Installation and Usage
