@@ -52,6 +52,3 @@ Contributions of any kind are welcome!
 This project is licensed under Apache-2.0 license.
 
 [English](README.md) | [中文](README.zh.md)
-
-
-I hope this format helps you! If you have any other questions, feel free to ask.
