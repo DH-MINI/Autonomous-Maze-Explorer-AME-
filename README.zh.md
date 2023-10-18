@@ -62,6 +62,8 @@ pip install Pillow==10.1.0
 
 按照Tele文件夹内的代码对小车进行组装以及接线，之后对ESP32-CAM进行wifi的基础设置。然后连接蓝牙JDY31模块并在for_computer代码中修改对应的端口等配置文件内容。并且根据E-commerce文件夹中的代码建立本地服务器与网站。
 
+![1](https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/f48e4d23-c6ea-4d82-a47e-fa535ada8c14)
+
 ### 第二步：连接小车和运行Python脚本
 
 打开TOMCAT服务器，登录本地网站，并且运行Python脚本与小车进行建立连接。
