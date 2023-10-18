@@ -54,6 +54,8 @@ pip install Pillow==10.1.0
 - MySQL
 - Eclipse
 
+<img width="818" alt="flow_chart" src="https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/ae3cbed5-1b05-4a41-879e-b9aeb6ca1ac4">
+
 ## Installation and Usage
 
 ### Step 0: Install the necessary hardware and software for the project
@@ -63,7 +65,6 @@ pip install Pillow==10.1.0
 Follow the code in the Tele folder to assemble and wire the car, then set up the basic settings for ESP32-CAM. Then connect the JDY31 Bluetooth module and modify the corresponding port in the for_computer code and other configuration file content. Also, establish a local server and website according to the code in the E-commerce folder.
 
 ![1](https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/f48e4d23-c6ea-4d82-a47e-fa535ada8c14)
-<img width="818" alt="flow_chart" src="https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/ae3cbed5-1b05-4a41-879e-b9aeb6ca1ac4">
 
 ### Step 2: Connect the car and run Python script
 
