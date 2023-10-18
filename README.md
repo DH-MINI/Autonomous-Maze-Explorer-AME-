@@ -2,6 +2,35 @@
 
 AME is an Arduino-based robot that navigates a 9x9 maze, identifies treasures using a YOLOv8-trained model, and communicates findings to a Tomcat-based website for real-time updates.
 
+## Tree
+.
+├── E-commerce
+│   ├── build
+│   │   └── classes
+│   └── src
+│       └── main
+├── IoT
+│   ├── GUI.py
+│   ├── best.pt
+│   ├── recognize by camera.py
+│   ├── recognize.py
+│   └── requirements.txt
+├── LICENSE
+├── Meeting_records
+│   └── 会议记录MeetingRecord_20230928195542.pdf
+├── README.md
+├── README.zh.md
+└── Tele
+    ├── for_computer
+    │   ├── config.ini
+    │   ├── full_process_script.py
+    │   └── requirements.txt
+    ├── for_esp32-cam
+    │   ├── esp32-cam_arduino
+    │   └── esp32-cam_arduino.ino
+    └── for_mega2560
+        └── mega2560_arduino.ino
+
 ## Environment Setup
 
 This project requires the following environment setup:
