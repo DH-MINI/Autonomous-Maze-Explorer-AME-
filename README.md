@@ -50,5 +50,5 @@ Contributions of any kind are welcome!
 ## License
 
 This project is licensed under Apache-2.0 license.
-```
+
 I hope this format helps you! If you have any other questions, feel free to ask.
