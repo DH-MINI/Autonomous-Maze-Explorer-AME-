@@ -2,6 +2,37 @@
 
 AME是一款基于Arduino的机器人，它可以导航一个9x9的迷宫，使用YOLOv8训练的模型识别宝藏，并将发现的结果实时更新到基于Tomcat的网站。
 
+## 文件结构
+```
+.
+├── E-commerce
+│   ├── build
+│   │   └── classes
+│   └── src
+│       └── main
+├── IoT
+│   ├── GUI.py
+│   ├── best.pt
+│   ├── recognize by camera.py
+│   ├── recognize.py
+│   └── requirements.txt
+├── LICENSE
+├── Meeting_records
+│   └── 会议记录MeetingRecord_20230928195542.pdf
+├── README.md
+├── README.zh.md
+└── Tele
+    ├── for_computer
+    │   ├── config.ini
+    │   ├── full_process_script.py
+    │   └── requirements.txt
+    ├── for_esp32-cam
+    │   ├── esp32-cam_arduino
+    │   └── esp32-cam_arduino.ino
+    └── for_mega2560
+        └── mega2560_arduino.ino
+```
+
 ## 环境配置
 
 本项目需要以下环境配置：
