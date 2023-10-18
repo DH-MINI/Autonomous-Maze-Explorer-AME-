@@ -3,6 +3,7 @@
 AME is an Arduino-based robot that navigates a 9x9 maze, identifies treasures using a YOLOv8-trained model, and communicates findings to a Tomcat-based website for real-time updates.
 
 ## Tree
+```
 .
 ├── E-commerce
 │   ├── build
@@ -30,6 +31,7 @@ AME is an Arduino-based robot that navigates a 9x9 maze, identifies treasures us
     │   └── esp32-cam_arduino.ino
     └── for_mega2560
         └── mega2560_arduino.ino
+```
 
 ## Environment Setup
 
