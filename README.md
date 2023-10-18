@@ -1,4 +1,4 @@
-![1](https://github.com/DH-MINI/Autonomous-Maze-Explorer-AME-/assets/92455708/e9227216-a8c8-43f5-bdfd-745b121f8061)# Autonomous-Maze-Explorer-AME-
+# Autonomous-Maze-Explorer-AME-
 
 AME is an Arduino-based robot that navigates a 9x9 maze, identifies treasures using a YOLOv8-trained model, and communicates findings to a Tomcat-based website for real-time updates.
 
